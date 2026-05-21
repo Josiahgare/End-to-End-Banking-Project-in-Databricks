@@ -18,4 +18,4 @@ End-to-end banking data engineering project in Databricks covering data ingestio
 
 ## VIRTUALBANK Architecture
 
-![VB_Architecture](https://github.com/Josiahgare/End-to-End-Banking-Project-in-Databricks/blob/a4c01d22c7d798eb2be0487d9f83d70cfc25edf9/docs/VIRTUALBANK%20Architecture.drawio.svg)
+![VB_Architecture](https://github.com/Josiahgare/End-to-End-Banking-Project-in-Databricks/blob/main/docs/VIRTUALBANK%20Architecture.drawio.svg?short_path=b68283b)
