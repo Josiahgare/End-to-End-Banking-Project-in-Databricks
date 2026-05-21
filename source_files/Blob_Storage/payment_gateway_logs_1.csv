@@ -14999,3 +14999,4 @@ txn_id,gateway_name,gateway_status,response_code,processing_time_ms,device_type,
 44998,PayU,SUCCESS,00,450,Mobile,Mumbai,2025-01-30 22:12:33
 44999,Stripe,SUCCESS,00,1420,POS,Bangalore,2025-01-30 22:24:23
 45000,Razorpay,SUCCESS,00,662,Mobile,Chennai,2025-01-30 22:26:03
+
