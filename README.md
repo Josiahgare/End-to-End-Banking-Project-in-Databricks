@@ -15,3 +15,7 @@ End-to-end banking data engineering project in Databricks covering data ingestio
 + Build a metadata-driven framework on Databricks using Medallion Architecture (Bronze, Silver, and Gold).
 + Integrate SQL Server and Cloud storage data sources into a unified analytics platform.
 + Create interactive Dashboards and Genie AI interfacefor business users to query data.
+
+## VIRTUALBANK Architecture
+
+![VB_Architecture](https://github.com/Josiahgare/End-to-End-Banking-Project-in-Databricks/blob/a4c01d22c7d798eb2be0487d9f83d70cfc25edf9/docs/VIRTUALBANK%20Architecture.drawio.svg)
