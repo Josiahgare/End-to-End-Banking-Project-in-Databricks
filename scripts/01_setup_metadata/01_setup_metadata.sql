@@ -277,6 +277,6 @@ VALUES (
     NULL,
     'gold',
     TRUE,
-    1,
+    5,
     current_timestamp()
 );
