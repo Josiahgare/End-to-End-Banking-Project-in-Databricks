@@ -19,3 +19,13 @@ End-to-end banking data engineering project in Databricks covering data ingestio
 ## VIRTUALBANK Architecture
 
 ![VB_Architecture](https://github.com/Josiahgare/End-to-End-Banking-Project-in-Databricks/blob/main/docs/VIRTUALBANK%20Architecture.drawio.svg)
+
+---
+
+### 🛡️ License
+This project is licensed under the [MIT License](https://github.com/Josiahgare/SQL-Data-Warehouse-Project/blob/main/LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+---
+
+### 🌟 About Me
+Hi there! I'm **Josiah Oghenegare Obarhuakpor**, also known as **Joo**. I’m a dedicated **Data professional** focused on building reliable data systems that keep businesses running efficiently. I specialize in transforming raw data into structured, high-quality datasets through ETL processes, data modeling, and warehouse design. I’m passionate about creating scalable data solutions that enable consistent, insight-driven growth.
